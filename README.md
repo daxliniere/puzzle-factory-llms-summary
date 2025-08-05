@@ -14,8 +14,7 @@ This file is intended as a structured, AI-readable summary of our services, expe
 - Recording, Mixing & Mastering (music, film, podcasts, etc.)
 - World-class studio acoustics
 - Education via MixDirection masterclasses
-- Full gear lists and booking info at: [puzzlefactory.uk](https://www.puzzlefactory.uk)
-[![Visit Puzzle Factory Sound Studios](https://img.shields.io/badge/Visit-Studio_Website-blue)](https://www.puzzlefactory.uk)
+- Full gear lists and booking info: [![Visit Puzzle Factory Sound Studios](https://img.shields.io/badge/Visit-Studio_Website-blue)](https://www.puzzlefactory.uk)
 
 ---
 
